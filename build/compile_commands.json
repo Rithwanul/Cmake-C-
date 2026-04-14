@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/dico/Desktop/C++/Pointer-2/build",
+  "command": "/usr/bin/g++  -I/home/dico/Desktop/C++/Pointer-2/include -g -std=c++17 -o CMakeFiles/App.dir/src/main.cpp.o -c /home/dico/Desktop/C++/Pointer-2/src/main.cpp",
+  "file": "/home/dico/Desktop/C++/Pointer-2/src/main.cpp",
+  "output": "CMakeFiles/App.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/dico/Desktop/C++/Pointer-2/build",
+  "command": "/usr/bin/g++  -I/home/dico/Desktop/C++/Pointer-2/include -g -std=c++17 -o CMakeFiles/App.dir/src/car.cpp.o -c /home/dico/Desktop/C++/Pointer-2/src/car.cpp",
+  "file": "/home/dico/Desktop/C++/Pointer-2/src/car.cpp",
+  "output": "CMakeFiles/App.dir/src/car.cpp.o"
+},
+{
+  "directory": "/home/dico/Desktop/C++/Pointer-2/build",
+  "command": "/usr/bin/g++  -I/home/dico/Desktop/C++/Pointer-2/include -g -std=c++17 -o CMakeFiles/App.dir/src/bus.cpp.o -c /home/dico/Desktop/C++/Pointer-2/src/bus.cpp",
+  "file": "/home/dico/Desktop/C++/Pointer-2/src/bus.cpp",
+  "output": "CMakeFiles/App.dir/src/bus.cpp.o"
+},
+{
+  "directory": "/home/dico/Desktop/C++/Pointer-2/build",
+  "command": "/usr/bin/g++  -I/home/dico/Desktop/C++/Pointer-2/include -g -std=c++17 -o CMakeFiles/App.dir/src/bike.cpp.o -c /home/dico/Desktop/C++/Pointer-2/src/bike.cpp",
+  "file": "/home/dico/Desktop/C++/Pointer-2/src/bike.cpp",
+  "output": "CMakeFiles/App.dir/src/bike.cpp.o"
+}
+]

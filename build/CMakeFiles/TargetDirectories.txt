@@ -1,0 +1,4 @@
+/home/dico/Desktop/C++/Pointer-2/build/CMakeFiles/App.dir
+/home/dico/Desktop/C++/Pointer-2/build/CMakeFiles/run.dir
+/home/dico/Desktop/C++/Pointer-2/build/CMakeFiles/edit_cache.dir
+/home/dico/Desktop/C++/Pointer-2/build/CMakeFiles/rebuild_cache.dir
