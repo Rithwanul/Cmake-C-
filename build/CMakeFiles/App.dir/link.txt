@@ -1,1 +1,0 @@
-/usr/bin/g++ -g -Wl,--dependency-file=CMakeFiles/App.dir/link.d CMakeFiles/App.dir/src/main.cpp.o CMakeFiles/App.dir/src/car.cpp.o CMakeFiles/App.dir/src/bus.cpp.o CMakeFiles/App.dir/src/bike.cpp.o -o App
